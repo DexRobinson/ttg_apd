@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: f1207b60637af40428fb68653b2b2e6f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ACMEEnemies_0
+    21300002: ACMEEnemies_1
+    21300004: ACMEEnemies_2
+    21300006: ACMEEnemies_3
+    21300008: ACMEEnemies_4
+    21300010: ACMEEnemies_5
+    21300012: ACMEEnemies_6
+    21300014: ACMEEnemies_7
+    21300016: ACMEEnemies_8
+    21300018: ACMEEnemies_9
+    21300020: ACMEEnemies_10
+    21300022: ACMEEnemies_11
+    21300024: ACMEEnemies_12
+    21300026: ACMEEnemies_13
+    21300028: ACMEEnemies_14
+    21300030: ACMEEnemies_15
+    21300032: ACMEEnemies_16
+    21300034: ACMEEnemies_17
+    21300036: ACMEEnemies_18
+    21300038: ACMEEnemies_19
+    21300040: ACMEEnemies_20
+    21300042: ACMEEnemies_21
+    21300044: ACMEEnemies_22
+    21300046: ACMEEnemies_23
+    21300048: ACMEEnemies_24
+    21300050: ACMEEnemies_25
+    21300052: ACMEEnemies_26
+    21300054: ACMEEnemies_27
+    21300056: ACMEEnemies_28
+    21300058: ACMEEnemies_29
+    21300060: ACMEEnemies_30
+    21300062: ACMEEnemies_31
+    21300064: ACMEEnemies_32
+    21300066: ACMEEnemies_33
+    21300068: ACMEEnemies_34
+    21300070: ACMEEnemies_35
+    21300072: ACMEEnemies_36
+    21300074: ACMEEnemies_37
+    21300076: ACMEEnemies_38
+    21300078: ACMEEnemies_39
+    21300080: ACMEEnemies_40
+    21300082: ACMEEnemies_41
+    21300084: ACMEEnemies_42
+    21300086: ACMEEnemies_43
+    21300088: ACMEEnemies_44
+    21300090: ACMEEnemies_45
+    21300092: ACMEEnemies_46
+    21300094: ACMEEnemies_47
+    21300096: ACMEEnemies_48
+    21300098: ACMEEnemies_49
+    21300100: ACMEEnemies_50
+    21300102: ACMEEnemies_51
+    21300104: ACMEEnemies_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: ACMEEnemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1962
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1962
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1876
+        width: 256
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1876
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1790
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1704
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_8
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1649
+        width: 256
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_9
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1138
+        width: 256
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_10
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1138
+        width: 256
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_11
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1649
+        width: 256
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1034
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1143
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 256
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1248
+        width: 256
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1310
+        width: 256
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1310
+        width: 256
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_20
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1799
+        width: 246
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1780
+        width: 262
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_22
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1670
+        width: 283
+        height: 378
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_23
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1426
+        width: 246
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_24
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1537
+        width: 255
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_25
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1526
+        width: 260
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1493
+        width: 256
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1028
+        width: 256
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1173
+        width: 256
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_32
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1173
+        width: 256
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1028
+        width: 256
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 293
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_38
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 305
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_39
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 0
+        width: 138
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_40
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1061
+        width: 381
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 752
+        width: 247
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 751
+        width: 251
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_43
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 758
+        width: 247
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 540
+        width: 248
+        height: 124
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_45
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 401
+        width: 307
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_46
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 415
+        width: 307
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_47
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 23
+        width: 307
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_48
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4
+        width: 307
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_49
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 27
+        width: 307
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_50
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 823
+        width: 283
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_51
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 791
+        width: 249
+        height: 339
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ACMEEnemies_52
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 427
+        width: 243
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

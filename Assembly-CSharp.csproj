@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{BBCE9826-035A-E601-8B11-8FD172201B63}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_1;UNITY_4_6;UNITY_WEBPLAYER;WEBPLUG;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\LocatorHUD\Scripts\LocatorHUD.cs" />
+     <Compile Include="Assets\Plugin\IOSVideoPlayer\IOSVideoPlayerBinding.cs" />
+     <Compile Include="Assets\Plugin\IOSVideoPlayer\TestScene\Scripts\GuiManager.cs" />
+     <Compile Include="Assets\ProFlares\DemoScripts\RotateTransform.cs" />
+     <Compile Include="Assets\ProFlares\Scripts\ProFlare.cs" />
+     <Compile Include="Assets\ProFlares\Scripts\ProFlareAtlas.cs" />
+     <Compile Include="Assets\ProFlares\Scripts\ProFlareBatch.cs" />
+     <Compile Include="Assets\Resources\FlakSpriteSheet.cs" />
+     <Compile Include="Assets\RotationLocal.cs" />
+     <Compile Include="Assets\Scripts\Boss\Boss1.cs" />
+     <Compile Include="Assets\Scripts\Boss\Boss2.cs" />
+     <Compile Include="Assets\Scripts\Boss\Boss2Arm.cs" />
+     <Compile Include="Assets\Scripts\Boss\Boss3.cs" />
+     <Compile Include="Assets\Scripts\Boss\Boss3Colliders.cs" />
+     <Compile Include="Assets\Scripts\Boss\Cannon.cs" />
+     <Compile Include="Assets\Scripts\Boss\Centipede.cs" />
+     <Compile Include="Assets\Scripts\Boss\CentipedeOrb.cs" />
+     <Compile Include="Assets\Scripts\Boss\CentipedeSpawner.cs" />
+     <Compile Include="Assets\Scripts\Boss\CentipedeWall.cs" />
+     <Compile Include="Assets\Scripts\Boss\GorgArms.cs" />
+     <Compile Include="Assets\Scripts\Boss\GorgClaw.cs" />
+     <Compile Include="Assets\Scripts\Boss\GorgHead.cs" />
+     <Compile Include="Assets\Scripts\Boss\MortBoss.cs" />
+     <Compile Include="Assets\Scripts\Boss\MortLaserRender.cs" />
+     <Compile Include="Assets\Scripts\Boss\RareGorgArm.cs" />
+     <Compile Include="Assets\Scripts\Buttons\GameButton.cs" />
+     <Compile Include="Assets\Scripts\Enemies\Asteroid.cs" />
+     <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Enemies\EnemySpawner.cs" />
+     <Compile Include="Assets\Scripts\GesturesSwipe.cs" />
+     <Compile Include="Assets\Scripts\HealthBar.cs" />
+     <Compile Include="Assets\Scripts\Joystick\JoystickScript.cs" />
+     <Compile Include="Assets\Scripts\Joystick\ResizingGUITexture.cs" />
+     <Compile Include="Assets\Scripts\Joystick\ResizingViewport.cs" />
+     <Compile Include="Assets\Scripts\Managers\ExplosionManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\GameController.cs" />
+     <Compile Include="Assets\Scripts\Managers\MainMenuManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\PeopleRunningManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\Player.cs" />
+     <Compile Include="Assets\Scripts\Managers\Tutorial.cs" />
+     <Compile Include="Assets\Scripts\Managers\Variables.cs" />
+     <Compile Include="Assets\Scripts\Menus\Buttons\LevelButton.cs" />
+     <Compile Include="Assets\Scripts\Menus\Buttons\LevelSelect.cs" />
+     <Compile Include="Assets\Scripts\Menus\Store\BuyGameButtons.cs" />
+     <Compile Include="Assets\Scripts\Menus\Store\IAP.cs" />
+     <Compile Include="Assets\Scripts\Menus\Store\IAPButtons.cs" />
+     <Compile Include="Assets\Scripts\Menus\Store\InAppManager.cs" />
+     <Compile Include="Assets\Scripts\Misc\AspectUtility.cs" />
+     <Compile Include="Assets\Scripts\Misc\AudioComp.cs" />
+     <Compile Include="Assets\Scripts\Misc\ButtonPulse.cs" />
+     <Compile Include="Assets\Scripts\Misc\DestroyOverTime.cs" />
+     <Compile Include="Assets\Scripts\Misc\Explosion.cs" />
+     <Compile Include="Assets\Scripts\Misc\Fade.cs" />
+     <Compile Include="Assets\Scripts\Misc\LocalRot.cs" />
+     <Compile Include="Assets\Scripts\Misc\MiniMapCamera.cs" />
+     <Compile Include="Assets\Scripts\Misc\NoCollider.cs" />
+     <Compile Include="Assets\Scripts\Misc\NoRender.cs" />
+     <Compile Include="Assets\Scripts\Misc\PeopleRunning.cs" />
+     <Compile Include="Assets\Scripts\Misc\RandomTurnOnOff.cs" />
+     <Compile Include="Assets\Scripts\Misc\Rotate.cs" />
+     <Compile Include="Assets\Scripts\Misc\RotateAndScale.cs" />
+     <Compile Include="Assets\Scripts\Misc\RotateY.cs" />
+     <Compile Include="Assets\Scripts\Misc\ScaleAtStart.cs" />
+     <Compile Include="Assets\Scripts\Misc\Stars.cs" />
+     <Compile Include="Assets\Scripts\PlanetTextureSwitch.cs" />
+     <Compile Include="Assets\Scripts\PlasmaCrystal.cs" />
+     <Compile Include="Assets\Scripts\PlayKillText.cs" />
+     <Compile Include="Assets\Scripts\PlaySpriteOnce.cs" />
+     <Compile Include="Assets\Scripts\Player\Crate.cs" />
+     <Compile Include="Assets\Scripts\Player\CratePowerWeapon.cs" />
+     <Compile Include="Assets\Scripts\Player\DontDestoryValues.cs" />
+     <Compile Include="Assets\Scripts\Player\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Player\Weapons\BoidFlocking.cs" />
+     <Compile Include="Assets\Scripts\Player\Weapons\Bullet.cs" />
+     <Compile Include="Assets\Scripts\Player\Weapons\Satalite.cs" />
+     <Compile Include="Assets\Scripts\Player\Weapons\SpecialBullets.cs" />
+     <Compile Include="Assets\Scripts\Player\Weapons\WeaponSlot.cs" />
+     <Compile Include="Assets\Scripts\PowerHUD.cs" />
+     <Compile Include="Assets\Scripts\PowerWeaponCrate.cs" />
+     <Compile Include="Assets\Scripts\Preloader.cs" />
+     <Compile Include="Assets\Scripts\SatRotateItem.cs" />
+     <Compile Include="Assets\Scripts\SizeToCameraPerspective.cs" />
+     <Compile Include="Assets\Scripts\StatsBar.cs" />
+     <Compile Include="Assets\Scripts\StatsBarManager.cs" />
+     <Compile Include="Assets\Scripts\StoreButtonIcon.cs" />
+     <Compile Include="Assets\Scripts\StoreKitEventListener.cs" />
+     <Compile Include="Assets\Scripts\StoreManager.cs" />
+     <Compile Include="Assets\Scripts\StoreManagerNewUI.cs" />
+     <Compile Include="Assets\Scripts\StoreUpgradeManager.cs" />
+     <Compile Include="Assets\Scripts\SuperWeaponTextureChange.cs" />
+     <Compile Include="Assets\Scripts\TurnOffIfPlayerDead.cs" />
+     <Compile Include="Assets\Scripts\UnlockPlanet.cs" />
+     <Compile Include="Assets\Scripts\UnlockedCratesMenu.cs" />
+     <Compile Include="Assets\Scripts\VariablesOld.cs" />
+     <Compile Include="Assets\Temp\AddForceToTarget.cs" />
+     <Compile Include="Assets\Temp\CopyRotationValue.cs" />
+     <Compile Include="Assets\Temp\DemoControls.cs" />
+     <Compile Include="Assets\Temp\DetonatorBurstEmitter.cs" />
+     <Compile Include="Assets\Temp\DetonatorLight.cs" />
+     <Compile Include="Assets\Temp\Flak.cs" />
+     <Compile Include="Assets\Temp\GameBoarder.cs" />
+     <Compile Include="Assets\Temp\GorgAnimations.cs" />
+     <Compile Include="Assets\Temp\InvasionCountBar.cs" />
+     <Compile Include="Assets\Temp\KamakizeMorts.cs" />
+     <Compile Include="Assets\Temp\LHMouseLook.cs" />
+     <Compile Include="Assets\Temp\LaserSS.cs" />
+     <Compile Include="Assets\Temp\Mines.cs" />
+     <Compile Include="Assets\Temp\MiniMapChange.cs" />
+     <Compile Include="Assets\Temp\Modifiers.cs" />
+     <Compile Include="Assets\Temp\MoneyDisplay.cs" />
+     <Compile Include="Assets\Temp\MortEnemySpawns.cs" />
+     <Compile Include="Assets\Temp\Move.cs" />
+     <Compile Include="Assets\Temp\MultiCameraDemo.cs" />
+     <Compile Include="Assets\Temp\PresetViewer.cs" />
+     <Compile Include="Assets\Temp\RandomPos.cs" />
+     <Compile Include="Assets\Temp\ResizingDefaultSizes.cs" />
+     <Compile Include="Assets\Temp\SS.cs" />
+     <Compile Include="Assets\Temp\SmoothCameraOrbit.cs" />
+     <Compile Include="Assets\Temp\SpinInput.cs" />
+     <Compile Include="Assets\Temp\SplitScreenDemo.cs" />
+     <Compile Include="Assets\Temp\SpriteAnimation.cs" />
+     <Compile Include="Assets\Temp\SpriteSheet.cs" />
+     <Compile Include="Assets\Temp\StoreKitGUIManager.cs" />
+     <Compile Include="Assets\Temp\StoreManager.cs" />
+     <Compile Include="Assets\Temp\SuperWeaponBackgroundChange.cs" />
+     <Compile Include="Assets\Temp\SwitchCameraDemo.cs" />
+     <Compile Include="Assets\Temp\Text.cs" />
+     <Compile Include="Assets\Temp\TranslateCurve.cs" />
+     <Compile Include="Assets\Temp\UpgradeMenu.cs" />
+     <Compile Include="Assets\Temp\Zoom.cs" />
+     <Compile Include="Assets\Temp\demoGUI.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\Detonator.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorCloudRing.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorFireball.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorForce.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorGlow.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorHeatwave.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorShockwave.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorSmoke.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorSound.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorSparks.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\System\DetonatorSpray.cs" />
+     <Compile Include="Assets\Textures &amp; Effects\Toon_Explosion_V1\Plugins\HTExplosion.cs" />
+     <None Include="Assets\Temp\MegaAtlas.txt" />
+     <None Include="Assets\Temp\OculusRift_ReadMe.txt" />
+     <None Include="Assets\Plugins\FingerGestures\Readme.txt" />
+     <None Include="Assets\Temp\ProFlares_ReadMe.txt" />
+     <None Include="Assets\Temp\Simple Particle Scale - Readme.txt" />
+     <None Include="Assets\Textures &amp; Effects\Detonator Explosion Framework\Resources\Detonator\Textures\HeatDistort.shader" />
+     <None Include="Assets\Temp\BasicsAtlas.txt" />
+     <None Include="Assets\Temp\02 - How to create an explosion.txt" />
+     <None Include="Assets\ProFlares\Shaders\ProFlaresBumpSpecShader.shader" />
+     <None Include="Assets\Temp\Fireworks - Readme.txt" />
+     <None Include="Assets\Temp\01 - Package description.txt" />
+     <None Include="Assets\Plugin\IOSVideoPlayer\ReadMe.txt" />
+     <None Include="Assets\Textures &amp; Effects\UnlitTransparentColor.shader" />
+     <None Include="Assets\ProFlares\Shaders\ProFlareShader.shader" />
+     <None Include="Assets\Temp\IslandDemoAtlas.txt" />
+     <None Include="Assets\Temp\03 - HTExplosion.cs parameters.txt" />
+     <None Include="Assets\ProFlares\Shaders\ProFlaresLeavesShader.shader" />
+     <None Include="Assets\Textures &amp; Effects\UnlitWithColor.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="P31RestKit">
+ <HintPath>C:/Users/rrobinson/Desktop/APDv1.18/Assets/Plugins/P31RestKit.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{B4CFDC46-2BEE-189E-FE58-FF9173DE58F8}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

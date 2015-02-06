@@ -1,0 +1,36 @@
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Assembly-UnityScript.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\P31RestKit.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Prime31MenuItem.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Dex888\Desktop\Unity Projects\APDv1.18\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Assembly-UnityScript.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\P31RestKit.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Prime31MenuItem.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Dex888\Desktop\Unity Projects\Testing Builds\APDv1.18\obj\Debug\Assembly-CSharp-Editor.pdb

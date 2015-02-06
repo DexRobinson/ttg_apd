@@ -1,0 +1,75 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/BoidFlocking.cs">
+    <Files>
+      <File FileName="../Supply Drop/SS/Assets/Scripts/AnimatedMenu.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/UnlitTransparentColor.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UnlitWithColor.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpecialBullets.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Asteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AudioComp.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cannon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Crate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Flak.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WeaponSlot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SuperWeaponTextureChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SuperWeaponBackgroundChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StatsBarManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StatsBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Stars.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpriteSheet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpriteAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScaleAtStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SatRotateItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Satalite.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RotateY.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RareGorgArm.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RandomTurnOnOff.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Preloader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PowerWeaponCrate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PowerHUD.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlaySpriteOnce.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayKillText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlasmaCrystal.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlanetTextureSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PeopleRunningManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PeopleRunning.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NoRender.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NoCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MortLaserRender.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MortEnemySpawns.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MortBoss.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoneyDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Modifiers.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MiniMapChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MiniMapCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Mines.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainMenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LocalRot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LaserSS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InvasionCountBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InAppManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GorgHead.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GorgClaw.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Fade.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ExplosionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/BoidFlocking.cs" Line="191" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
